@@ -13,9 +13,13 @@ Requirements:
 Usage
 1. Install Python3
 2. Install requirements.
-   >>pip install -r requirements.txt
+
+   a) pip install -r requirements.txt
 3. Configure timeout in the script.
-   -> For changing the total runtime of script. Set the value of 'TOTAL_TIME'. Default is set to 8 hours.
-   -> For changing the interval of moving cursor. Set the value of 'TIMEOUT'. Default is set to 2 mins.
-3. Run the script
-   >>python idle_check.py
+
+   a) For changing the total runtime of script. Set the value of 'TOTAL_TIME'. Default is set to 8 hours.
+
+   b) For changing the interval of moving cursor. Set the value of 'TIMEOUT'. Default is set to 2 mins.
+4. Run the script
+
+   a) python idle_check.py
